@@ -51,7 +51,7 @@ describe('socks5 server', () => {
     },
 
     target: {
-      host: "ip.cn", // (google.com)
+      host: "google.com", // (google.com)
       port: 80
     }
   };
